@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadbilaldev/" target="_blank" rel="noreferrer" > </a>
+  <a href="https://www.linkedin.com/in/muhammadbilaldevops/" target="_blank" rel="noreferrer" > </a>
 </p>
 
 <p align="center">
